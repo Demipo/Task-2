@@ -1,2 +1,2 @@
-# Task-2
+# demo-configParser
 Java Stream IO + Collection demo
